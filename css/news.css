@@ -1,0 +1,37 @@
+h1 {
+    color:#FB7299;
+}
+
+.cls{
+    font-size: 13px;
+    color: #968d92;
+}
+
+/* #newsTime {
+    font-size: 13px;
+    color: red;
+} */
+
+span {
+    color:green;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+p {
+    text-indent: 35px;
+    line-height: 20px;
+}
+
+#lastP {
+    text-align: right;
+}
+
+#content {
+    width: 65%;
+    /* margin: 0% 17.5% 0 17.5%; */
+    margin: 0 auto;
+}
